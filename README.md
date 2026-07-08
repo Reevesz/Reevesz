@@ -19,7 +19,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,rust,dart,js,html,css" />
 </p>
-![Assembly](https://img.shields.io/badge/Assembly-x86-blue)
+
 
 ---
 
