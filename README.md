@@ -17,7 +17,8 @@
 ## 🖥️ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,rust,asm,dart,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,rust,dart,js,html,css" />
+![Assembly](https://img.shields.io/badge/Assembly-x86-blue)
 </p>
 
 ---
